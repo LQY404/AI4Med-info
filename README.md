@@ -14,6 +14,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv2024 | [M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis](https://arxiv.org/pdf/2407.17267v1.pdf) | [code](https://github.com/bigyehahaha/m4) | MIL |
 | ACMMM2024 | [SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification](https://arxiv.org/abs/2407.17689) | [code](https://github.com/FangHeng/SAM-MIL) | MIL |
 | CVPR2024 | [ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf) | [code](https://github.com/Jiangbo-Shi/ViLa-MIL) | MIL |
 | CVPR2024 | [Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2403.07939) | [code](https://github.com/titizheng/PAMIL) | MIL |
@@ -32,6 +33,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv2024 | [LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels](https://arxiv.org/pdf/2407.18054v1.pdf) | [code](https://github.com/hustvl/lkcell) | cell ins. seg. |
 | MICCAI2019 | [Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response](https://arxiv.org/abs/1911.13077) | [code](https://github.com/naivete5656/WSISPDR) | weak sup., cell ins. seg. |
 | MIA2019 | [HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images](https://arxiv.org/abs/1812.06499) | [code](https://github.com/vqdang/hover_net) | full sup., cell ins. seg. |
 | arxiv | [A Foundation Model for Cell Segmentation](https://arxiv.org/abs/2311.11004) | [code](https://github.com/vanvalenlab/cellSAM) | full sup., cell ins. seg. |
