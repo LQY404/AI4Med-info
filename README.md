@@ -14,6 +14,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ACMMM2024 | [SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification](https://arxiv.org/abs/2407.17689) | [code](https://github.com/FangHeng/SAM-MIL) | MIL |
 | CVPR2024 | [ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf) | [code](https://github.com/Jiangbo-Shi/ViLa-MIL) | MIL |
 | CVPR2024 | [Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2403.07939) | [code](https://github.com/titizheng/PAMIL) | MIL |
 | CVPR2024 | [Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction](https://arxiv.org/abs/2402.19326) | [code](https://github.com/ls1rius/WSI_FiVE) |  |
