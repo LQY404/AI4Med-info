@@ -14,6 +14,8 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ACMMM2024 | [Mixed Prototype Correction for Causal Inference in Medical Image Classification](https://openreview.net/attachment?id=bpasC0JvYP&name=pdf) | None |  |
+| ACMMM2024 | [GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data](https://openreview.net/attachment?id=veCRQAhFN7&name=pdf) | None |  |
 | arxiv2024 | [M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis](https://arxiv.org/pdf/2407.17267v1.pdf) | [code](https://github.com/bigyehahaha/m4) | MIL |
 | ACMMM2024 | [SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification](https://arxiv.org/abs/2407.17689) | [code](https://github.com/FangHeng/SAM-MIL) | MIL |
 | CVPR2024 | [ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf) | [code](https://github.com/Jiangbo-Shi/ViLa-MIL) | MIL |
@@ -33,6 +35,8 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2020 | [Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary](https://openreview.net/pdf?id=ULD5RCk0oo) | None |  |
+| ACMMM2024 | [BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation](https://openreview.net/pdf?id=ULD5RCk0oo) | None |  |
 | arxiv2024 | [LKCell: Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels](https://arxiv.org/pdf/2407.18054v1.pdf) | [code](https://github.com/hustvl/lkcell) | cell ins. seg. |
 | MICCAI2019 | [Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response](https://arxiv.org/abs/1911.13077) | [code](https://github.com/naivete5656/WSISPDR) | weak sup., cell ins. seg. |
 | MIA2019 | [HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images](https://arxiv.org/abs/1812.06499) | [code](https://github.com/vqdang/hover_net) | full sup., cell ins. seg. |
