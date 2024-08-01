@@ -38,6 +38,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| TMI2024 | [Which Pixel to Annotate: A Label-Efficient Nuclei Segmentation Framework](https://doi.org/10.1109/TMI.2022.3221666) | None |  |
 | TMI2024 | [Learning Robust Shape Regularization for Generalizable Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3371987) | [code](https://github.com/tonyc) |  |
 | TMI2024 | [ScribFormer: Transformer Makes CNN Work Better for Scribble-Based Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3363190) | None |  |
 | TMI2024 | [BoNuS: Boundary Mining for Nuclei Segmentation With Partial Point Labels](https://ieeexplore.ieee.org/document/10402076) | [code](https://github.com/hust-linyi/bonus) |  |
