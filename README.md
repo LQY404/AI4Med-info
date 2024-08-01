@@ -14,6 +14,8 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| TMI2024 | [Bayesian Collaborative Learning for Whole-Slide Image Classification](https://doi.org/10.1109/TMI.2023.3241204) | None |  |
+| TMI2024 | [MuRCL: Multi-Instance Reinforcement Contrastive Learning for Whole Slide Image Classification](https://ieeexplore.ieee.org/document/9975198) | [code](https://github.com/wwu98934/MuRCL) |  |
 | TMI2024 | [Pseudo-Bag Mixup Augmentation for Multiple Instance Learning-Based Whole Slide Image Classification](https://doi.org/10.1109/TMI.2024.3351213) | [code](https://github.com/liupei101/PseMix) |  |
 | TMI2024 | [DeepTree: Pathological Image Classification Through Imitating Tree-Like Strategies of Pathologists](https://doi.org/10.1109/TMI.2023.3341846) | [code]() |  |
 | TMI2024 | [Pseudo-Data Based Self-Supervised Federated Learning for Classification of Histopathological Images](https://doi.org/10.1109/TMI.2023.3323540) | None |  |
@@ -38,6 +40,8 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| TMI2024 | [HAMIL: High-Resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images](https://ieeexplore.ieee.org/document/10107649) | [code](https://github.com/HiLab-git/HAMIL) |  |
+| TMI2024 | [Cyclic Learning: Bridging Image-Level Labels and Nuclei Instance Segmentation](https://ieeexplore.ieee.org/document/10124051) | None |  |
 | TMI2024 | [Which Pixel to Annotate: A Label-Efficient Nuclei Segmentation Framework](https://doi.org/10.1109/TMI.2022.3221666) | None |  |
 | TMI2024 | [Learning Robust Shape Regularization for Generalizable Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3371987) | [code](https://github.com/tonyc) |  |
 | TMI2024 | [ScribFormer: Transformer Makes CNN Work Better for Scribble-Based Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3363190) | None |  |
