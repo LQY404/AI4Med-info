@@ -14,6 +14,9 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| TMI2024 | [Pseudo-Bag Mixup Augmentation for Multiple Instance Learning-Based Whole Slide Image Classification](https://doi.org/10.1109/TMI.2024.3351213) | [code](https://github.com/liupei101/PseMix) |  |
+| TMI2024 | [DeepTree: Pathological Image Classification Through Imitating Tree-Like Strategies of Pathologists](https://doi.org/10.1109/TMI.2023.3341846) | [code]() |  |
+| TMI2024 | [Pseudo-Data Based Self-Supervised Federated Learning for Classification of Histopathological Images](https://doi.org/10.1109/TMI.2023.3323540) | None |  |
 | ACMMM2024 | [Mixed Prototype Correction for Causal Inference in Medical Image Classification](https://openreview.net/attachment?id=bpasC0JvYP&name=pdf) | None |  |
 | ACMMM2024 | [GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data](https://openreview.net/attachment?id=veCRQAhFN7&name=pdf) | None |  |
 | arxiv2024 | [M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis](https://arxiv.org/pdf/2407.17267v1.pdf) | [code](https://github.com/bigyehahaha/m4) | MIL |
@@ -35,7 +38,14 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
-| MICCAL2024 | []() | [code]() |  |
+| TMI2024 | [Learning Robust Shape Regularization for Generalizable Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3371987) | [code](https://github.com/tonyc) |  |
+| TMI2024 | [ScribFormer: Transformer Makes CNN Work Better for Scribble-Based Medical Image Segmentation](https://doi.org/10.1109/TMI.2024.3363190) | None |  |
+| TMI2024 | [BoNuS: Boundary Mining for Nuclei Segmentation With Partial Point Labels](https://ieeexplore.ieee.org/document/10402076) | [code](https://github.com/hust-linyi/bonus) |  |
+| TMI2024 | [SC-SSL: Self-Correcting Collaborative and Contrastive Co-Training Model for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/10328616) | [code]() |  |
+| TMI2024 | [RECIST-Induced Reliable Learning: Geometry-Driven Label Propagation for Universal Lesion Segmentation](https://doi.org/10.1109/TMI.2023.3294824) | None |  |
+| TMI2024 | [Unsupervised Domain Adaptation for Medical Image Segmentation by Disentanglement Learning and Self-Training](https://doi.org/10.1109/TMI.2022.3192303) | None |  |
+| MedIA2024 | [CellViT: Vision Transformers for precise cell segmentation and classification](https://www.sciencedirect.com/science/article/pii/S1361841524000689?via%3Dihub) | [code](https://github.com/TIO-IKIM/CellViT) |  |
+| MedIA2024 | [Mutual learning with reliable pseudo label for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841524000367?via%3Dihub) | [code](https://github.com/Jiawei0o0/mutual-learning-with-reliable-pseudo-labels) |  |
 | MICCAL2024 | [ASPS: Augmented Segment Anything Model for Polyp Segmentation](https://arxiv.org/abs/2407.00718) | [code](https://github.com/HuiqianLi/ASPS) |  |
 | CVPR2020 | [Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary](https://openreview.net/pdf?id=ULD5RCk0oo) | None |  |
 | ACMMM2024 | [BSBP-RWKV: Background Suppression with Boundary Preservation for Efficient Medical Image Segmentation](https://openreview.net/pdf?id=ULD5RCk0oo) | None |  |
