@@ -16,6 +16,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| Nature | [A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas](https://www.nature.com/articles/s42256-024-00868-w) | [code](https://github.com/whiteyunjie/ROAM) |  |
 | WACV2021 | [Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification](https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf) | None |  |
 | CVPR2023 | [Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning](https://ieeexplore.ieee.org/document/10204083) | [code](https://github.com/HKU-MedAI/WSI-HGNN) |  |
 | CVPR2023 | [Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology Whole Slide Image Classification](https://arxiv.org/abs/2303.08446) | [code](https://github.com/invoker-LL/WSI-finetuning) |  |
