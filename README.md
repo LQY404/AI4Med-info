@@ -9,11 +9,26 @@ This hub main includes classfication, representation and segmentation on Patholo
 - [Classification](#classification)
 - [Representation](#representation)
 - [Segmentation](#segmentation)
+- [Generation](#generation)
+- [Quantification ](#quantification)
 
 ## Classification
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| WACV2021 | [Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification](https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf) | None |  |
+| CVPR2023 | [Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning](https://ieeexplore.ieee.org/document/10204083) | [code](https://github.com/HKU-MedAI/WSI-HGNN) |  |
+| CVPR2023 | [Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology Whole Slide Image Classification](https://arxiv.org/abs/2303.08446) | [code](https://github.com/invoker-LL/WSI-finetuning) |  |
+| CVPR2024 | [Prompting Vision Foundation Models for Pathology Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) | [code](https://github.com/7LFB/QAP) | √√√ |
+| CVPR2020 | [Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Predicting_Lymph_Node_Metastasis_Using_Histopathological_Images_Based_on_Multiple_CVPR_2020_paper.pdf) | None | √√√ |
+| CVPR2020 | [Multi-scale Domain-adversarial Multiple-instance CNN for Cancer Subtype Classification with Unannotated Histopathological Images](https://arxiv.org/pdf/2001.01599) | [code](https://github.com/takeuchi-lab/MS-DA-MIL-CNN) |  |
+| WACV2021 | [Kernel Self-Attention for Weakly-Supervised Image Classification Using Deep Multiple Instance Learning](https://openaccess.thecvf.com/content/WACV2021/papers/Rymarczyk_Kernel_Self-Attention_for_Weakly-Supervised_Image_Classification_Using_Deep_Multiple_Instance_WACV_2021_paper.pdf) | [code](https://github.com/gmum/Kernel_SA-AbMILP) |  |
+| CVPR2021 | [Dual-Stream Multiple Instance Learning Network for Whole Slide Image Classification With Self-Supervised Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dual-Stream_Multiple_Instance_Learning_Network_for_Whole_Slide_Image_Classification_CVPR_2021_paper.pdf) | [code](https://github.com/binli123/dsmil-wsi) |  |
+| CVPR2022 | [DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_DTFD-MIL_Double-Tier_Feature_Distillation_Multiple_Instance_Learning_for_Histopathology_Whole_CVPR_2022_paper.pdf) | [code](https://github.com/hrzhang1123/DTFD-MIL) |  |
+| CVPR2023 | [Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Multiple_Instance_Learning_via_Iterative_Self-Paced_Supervised_Contrastive_Learning_CVPR_2023_paper.pdf) | [coda](https://github.com/Kangningthu/ItS2CLR) |  |
+| ICCV2023 | [LNPL-MIL: Learning from Noisy Pseudo Labels for Promoting Multiple Instance Learning in Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_LNPL-MIL_Learning_from_Noisy_Pseudo_Labels_for_Promoting_Multiple_Instance_ICCV_2023_paper.pdf) | None |  |
+| ICCV2023 | [Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification](http://arxiv.org/abs/2307.15254) | [code](https://github.com/DearCaat/MHIM-MIL) |  |
+| WACV2024 | [SC-MIL: Supervised Contrastive Multiple Instance Learning for Imbalanced Classification in Pathology](https://openaccess.thecvf.com/content/WACV2024/papers/Juyal_SC-MIL_Supervised_Contrastive_Multiple_Instance_Learning_for_Imbalanced_Classification_in_WACV_2024_paper.pdf) | None |  |
 | TMI2024 | [Bayesian Collaborative Learning for Whole-Slide Image Classification](https://doi.org/10.1109/TMI.2023.3241204) | None |  |
 | TMI2024 | [MuRCL: Multi-Instance Reinforcement Contrastive Learning for Whole Slide Image Classification](https://ieeexplore.ieee.org/document/9975198) | [code](https://github.com/wwu98934/MuRCL) |  |
 | TMI2024 | [Pseudo-Bag Mixup Augmentation for Multiple Instance Learning-Based Whole Slide Image Classification](https://doi.org/10.1109/TMI.2024.3351213) | [code](https://github.com/liupei101/PseMix) |  |
@@ -33,6 +48,16 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2021 | [Multiple Instance Captioning: Learning Representations From Histopathology Textbooks and Articles](https://openaccess.thecvf.com/content/CVPR2021/papers/Gamper_Multiple_Instance_Captioning_Learning_Representations_From_Histopathology_Textbooks_and_Articles_CVPR_2021_paper.pdf) | [code](https://warwick.ac.uk/TIA/data/ARCH) |  |
+| CVPR2023 | [Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning](https://ieeexplore.ieee.org/document/10204083) | [code](https://github.com/HKU-MedAI/WSI-HGNN) |  |
+| CVPR2023 | [Benchmarking Self-Supervised Learning on Diverse Pathology Datasets](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Benchmarking_Self-Supervised_Learning_on_Diverse_Pathology_Datasets_CVPR_2023_paper.pdf) | [code](https://lunit-io.github.io/research/publications/pathology_ssl) |  |
+| ICCV2023 | [CO-PILOT: Dynamic Top-Down Point Cloud with Conditional Neighborhood Aggregation for Multi-Gigapixel Histopathology Image Representation](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakhli_CO-PILOT_Dynamic_Top-Down_Point_Cloud_with_Conditional_Neighborhood_Aggregation_for_ICCV_2023_paper.pdf) | None |  |
+| WACV2024 | [Convolutional Masked Image Modeling for Dense Prediction Tasks on Pathology Images](https://ieeexplore.ieee.org/document/10484144) | None |  |
+| CVPR2024 | [Transcriptomics-guided Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11618) | [code](https://github.com/mahmoodlab/TANGLE) |  |
+| CVPR2024 | [Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Dynamic_Graph_Representation_with_Knowledge-aware_Attention_for_Histopathology_Whole_Slide_CVPR_2024_paper.pdf) | [code](https://github.com/WonderLandxD/WiKG) |  |
+| CVPR2024 | [CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf) | [code](https://cplip.github.io/) |  |
+| CVPR2024 | [Rotation-Agnostic Image Representation Learning for Digital Pathology](https://openaccess.thecvf.com/content/CVPR2024/papers/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.pdf) | [code](https://KimiaLabMayo.github.io/PathDino-Page/) |  |
+| CVPR2023 | [Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf) | [code](https://github.com/mahmoodlab/MI-Zero) |  |
 | CVPR2024 | [Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11643) | [code](https://github.com/mahmoodlab/Panther) | unsup. |
 | CVPR2024 | [Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology](https://arxiv.org/abs/2402.17228) | [code](https://github.com/DearCaat/RRT-MIL) |  |
 
@@ -40,6 +65,10 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| ICCV2019 | [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf) | [code](https://github.com/ThoroughImages/CAMEL) |  |
+| ICCV2021 | [Mutual-Complementing Framework for Nuclei Detection and Segmentation in Pathology Image](https://ieeexplore.ieee.org/document/9710876) | [code](https://github.com/hrzhang1123/CVM_WS_Segmentation) |  |
+| CVPR2023 | [Weakly Supervised Segmentation With Point Annotations for Histopathology Images via Contrast-Based Variational Model](https://arxiv.org/abs/2304.03572) | [code](https://github.com/hrzhang1123/CVM_WS_Segmentation) |  |
+| CVPR2024 | [PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation](https://arxiv.org/abs/2402.19286) | None |  |
 | TMI2024 | [HAMIL: High-Resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images](https://ieeexplore.ieee.org/document/10107649) | [code](https://github.com/HiLab-git/HAMIL) |  |
 | TMI2024 | [Cyclic Learning: Bridging Image-Level Labels and Nuclei Instance Segmentation](https://ieeexplore.ieee.org/document/10124051) | None |  |
 | TMI2024 | [Which Pixel to Annotate: A Label-Efficient Nuclei Segmentation Framework](https://doi.org/10.1109/TMI.2022.3221666) | None |  |
@@ -77,4 +106,17 @@ This hub main includes classfication, representation and segmentation on Patholo
 | ECCV2022 | [Learning Topological Interactions for Multi-Class Medical Image Segmentation](https://arxiv.org/abs/2207.09654) | [code](https://github.com/TopoXLab/TopoInteraction) |  |
 | IJCAI2022 | [Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation]() | [code](https://github.com/taovv/UGPCL) |  |
 
+## Generation
 
+|   |   |   |   |
+| :------------: | :------------: | :------------: | :------------: |
+| WACV2022 | [A Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images](https://arxiv.org/abs/2209.13167) | None |  |
+| CVPR2023 | [Topology-Guided Multi-Class Cell Context Generation for Digital Pathology](https://openaccess.thecvf.com/content/CVPR2023/papers/Abousamra_Topology-Guided_Multi-Class_Cell_Context_Generation_for_Digital_Pathology_CVPR_2023_paper.pdf) | None |  |
+| WACV2024 | [PathLDM: Text Conditioned Latent Diffusion Model for Histopathology](https://openaccess.thecvf.com/content/WACV2024/papers/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.pdf) | [code](https://github.com/cvlab-stonybrook/PathLDM) |  |
+
+## Quantification 
+
+|   |   |   |   |
+| :------------: | :------------: | :------------: | :------------: |
+| CVPR2021 | [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://openaccess.thecvf.com/content/CVPR2021/papers/Jaume_Quantifying_Explainers_of_Graph_Neural_Networks_in_Computational_Pathology_CVPR_2021_paper.pdf) | [code](https://github.com/histocartography/patho-quant-explainer) |  |
+| CVPR2022 | [DeepLIIF: An Online Platform for Quantification of Clinical Pathology Slides](https://arxiv.org/abs/2204.04494) | [code](https://deepliif.org) |  |
