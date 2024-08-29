@@ -67,6 +67,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv2407 | [ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation](https://arxiv.org/abs/2407.14153) | [code](https://github.com/xq141839/ESP-MedSAM) |  |
 | ICCV2019 | [CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf) | [code](https://github.com/ThoroughImages/CAMEL) |  |
 | ICCV2021 | [Mutual-Complementing Framework for Nuclei Detection and Segmentation in Pathology Image](https://ieeexplore.ieee.org/document/9710876) | [code](https://github.com/hrzhang1123/CVM_WS_Segmentation) |  |
 | CVPR2023 | [Weakly Supervised Segmentation With Point Annotations for Histopathology Images via Contrast-Based Variational Model](https://arxiv.org/abs/2304.03572) | [code](https://github.com/hrzhang1123/CVM_WS_Segmentation) |  |
