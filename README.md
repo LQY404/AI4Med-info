@@ -16,6 +16,7 @@ This hub main includes classfication, representation and segmentation on Patholo
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| MICCAI2023 | [HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image Analysis](https://arxiv.org/abs/2309.07400) | [code](https://github.com/HKU-MedAI/HIGT) |  |
 | MICCAI2024 | [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction](https://arxiv.org/abs/2403.05396) | [code](https://github.com/dddavid4real/HistGen) |  |
 | Nature | [A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas](https://www.nature.com/articles/s42256-024-00868-w) | [code](https://github.com/whiteyunjie/ROAM) |  |
 | WACV2021 | [Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification](https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf) | None |  |
